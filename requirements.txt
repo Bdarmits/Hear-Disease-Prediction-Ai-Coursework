@@ -11,7 +11,7 @@ missingno == 0.4.2
 mlxtend == 0.17.0
 
 # new 1.py: 2
-numpy == 1.18.0
+numpy == 1.22.0
 
 # new 1.py: 1
 pandas == 0.25.1
