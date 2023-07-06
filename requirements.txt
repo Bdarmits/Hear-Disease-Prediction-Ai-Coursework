@@ -20,7 +20,7 @@ pandas == 0.25.1
 pandas_profiling == 2.3.0
 
 # new 1.py: 12
-scipy == 1.2.1
+scipy == 1.10.0
 
 # new 1.py: 32,33,34,35,36,37,38,39
 sklearn == 0.0
